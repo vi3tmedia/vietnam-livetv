@@ -1,0 +1,110 @@
+#######################################################################################################################################
+<poster>Vi3tmedia</poster>
+<fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
+#######################################################################################################################################
+
+          --------------------------------------------------
+<notify>
+<new>2</new>
+<message1>For Stash Content Updates</message1>
+<message2>Follow @ on Twitter</message2>
+<old>1</old>
+</notify>
+
+<message1></message1>
+<message2></message2>
+
+
+
+#####################################################################################################################
+
+
+<name>Vietnam XML</name>
+<link>http://www.dinhla.com/xml/vietnam.xml</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+
+
+
+<name>VIETNAM: Kien Giang 1</name>
+<link>http://113.160.49.34/lives/origin02/kg1mb.isml/kg1mb-364k.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+
+
+
+<name>VIETNAM: Kien Giang PTTH</name>
+<link>rtmp://123.29.69.69/live/KienGiang_250k</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+
+
+
+<name>VIETNAM: HBO</name>
+<link>http://113.160.49.34/lives/origin03/hbohd.isml/hbohd.m3u8&bitrate=400</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+
+
+
+
+<name>VIETNAM: Saigon Entertainment TV</name>
+<link>http://206.190.130.141/liveStream/set_1/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+
+
+
+<name>VIETNAM: Dong Nai TV 2</name>
+<link>rtmp://123.29.75.131:1935/thdn playpath=dn2.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf live=1 pageUrl=http://www.dnrtv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv2.png</thumbnail>
+
+
+
+<name>VIETNAM: Dong Nai TV 1</name>
+<link>rtmp://123.29.75.131:1935/thdn playpath=dn1.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf live=1 pageUrl=http://www.dnrtv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv1.png</thumbnail>
+
+
+
+
+<name>VIETNAM: Cà Mau TV</name>
+<link>rtmp://113.161.220.254/livepkgr/ playpath=livestream1?adbe-live-event=liveevent swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://ctvcamau.vn/jwplayer/?l=rtmp&i=http://118.69.199.136/wp-content/uploads/2014/01/TVonline_Ctvcamau.jpg&w=400&h=300&a=0</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/ca_mau_tv.png</thumbnail>
+
+
+
+<name>VIETNAM: Can Tho TV</name>
+<link>rtmp://tv.canthotv.vn/livepkgr/ playpath=livestream3?adbe-live-event=liveevent swfUrl=http://canthotv.vn/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://canthotv.vn/jwplayer/?l=rtmp&w=390&h=300&a=0&i=http://canthotv.vn/wp-content/themes/comfy-plus/styles/default/img/hdsd.png</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/th_tp_ct.png</thumbnail>
+
+
+
+<name>VIETNAM: BRT</name>
+<link>rtmp://113.163.216.24/live playpath=livestream swfUrl=http://www.brt.vn/player.swf live=1 pageUrl=http://www.brt.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/brt_vn.png</thumbnail>
+
+
+
+<name>VIETNAM: Binh Phuoc TV 2</name>
+<link>rtmp://113.161.180.136/live/ playpath=thbp2.tv swfUrl=http://www.bptv.com.vn/vplayer.swf live=1 pageUrl=http://www.bptv.com.vn/#</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+
+
+
+<name>VIETNAM: Binh Phuoc TV 1</name>
+<link>rtmp://113.161.180.136/live/ playpath=thbp1.tv swfUrl=http://www.bptv.com.vn/vplayer.swf live=1 pageUrl=http://www.bptv.com.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+
+
+
+<name>VIETNAM: An Giang TV 2</name>
+<link>rtmp://113.161.212.25/live2 playpath=atv2 swfUrl=http://www.atv.org.vn/player/player.swf live=1 pageUrl=http://www.atv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+
+
+
+<name>VIETNAM: An Giang TV 1</name>
+<link>rtmp://113.161.212.25/live playpath=atv1 swfUrl=http://www.atv.org.vn/player/player.swf live=1 pageUrl=http://www.atv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+
+
+#######################################################################################################################################
+
+
+##############################################################################################################################
