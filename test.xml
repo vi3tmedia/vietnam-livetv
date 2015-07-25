@@ -1,0 +1,440 @@
+#EXTM3U
+
+#EXTINF:-1, unshort
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+
+#EXTINF:-1, VTV1
+http://vp.xemtvhd.com/chn/vtv1/v.m3u8
+
+#EXTINF:-1, VTV2
+http://vp.xemtvhd.com/chn/vtv2/v.m3u8
+
+#EXTINF:-1, VTV3
+http://vp.xemtvhd.com/chn/vtv3/v.m3u8
+
+#EXTINF:-1, VTV4
+http://vp.xemtvhd.com/chn/vtv4/v.m3u8
+
+#EXTINF:-1, VTV5
+http://vp.xemtvhd.com/chn/vtv5/v.m3u8
+
+#EXTINF:-1, VTV6
+http://vp.xemtvhd.com/chn/vtv6/v.m3u8
+
+#EXTINF:-1, VOV TV
+http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8?wowzasessionid=20909133
+
+#EXTINF:-1, QPVN
+http://113.160.49.34/lives/origin02/qptvsd.isml/qptvsd.m3u8
+http://113.160.49.34/lives/origin02/qptvsd.isml/qptvsd-1096k.m3u8
+
+
+#EXTINF:-1, AXN (VN)
+http://stream.anluong.info/sctv2/axn.m3u8
+
+#EXTINF:-1, AXN HD (VN)
+http://113.160.49.34/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
+http://113.160.49.34/lives/origin03/axnhdmb.isml/axnhdmb-364k.m3u8
+
+#EXTINF:-1, Cinemax (VN)
+http://stream.anluong.info/sctv2/cinemax.m3u8
+
+#EXTINF:-1, Discovery (VN)
+http://stream.anluong.info/sctv2/discovery.m3u8
+
+#EXTINF:-1, HBO (VN)
+http://stream.anluong.info/sctv2/hbo.m3u8
+
+#EXTINF:-1, Star Movies HD(VN)
+http://tv.xemtvhd.com/lives/origin03/moviehd.isml/moviehd.m3u8
+
+#EXTINF:-1, Today VTC7xxxx
+http://tv.xemtvhd.com/lives/origin01/vtc7sd.isml/vtc7sd.m3u8
+
+#EXTINF:-1, Lets Viet VTC9
+http://14.161.5.88:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1, Cartoon Network (VN)
+http://stream.anluong.info/sctv2/cartoon.m3u8
+
+#EXTINF:-1, Disney Channel (VN)
+http://stream.anluong.info/sctv2/disney.m3u8
+
+#EXTINF:-1, Fashion TV (VN)
+http://stream.anluong.info/sctv2/fashion.m3u8
+
+#EXTINF:-1, Bóng Đá TV (VN) -- VTVCab 16
+http://vtv.xemtvhd.com/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8
+
+#EXTINF:-1, Thể Thao TV (VN) -- VTVCab 3
+http://vtv.xemtvhd.com/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
+
+#EXTINF:-1, VTC HD 3 Thể Thao (VN) -- VTC 3 HD
+http://tv.xemtvhd.com/lives/origin03/vtc3hd.isml/vtc3hd.m3u8
+
+
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]nhac[/COLOR]
+http://pvr.tvip.ga/0409.m3u8|X-Forwarded-For=81.17.18.52
+
+#EXTINF:-1, iTV SD (VN)
+http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
+
+
+
+#EXTINF:-1, VTC 1
+http://vp.xemtvhd.com/chn/vtc1/v.m3u8
+
+
+#EXTINF:-1, VTC 2
+http://vp.xemtvhd.com/chn/vtc2/v.m3u8
+
+
+#EXTINF:-1, VTC 3
+http://vp.xemtvhd.com/chn/vtc3/v.m3u8
+
+
+#EXTINF:-1, VTC 4 xxxxx
+http://tv.xemtvhd.com/lives/origin01/vtc4sd.isml/vtc4sd.m3u8
+
+
+#EXTINF:-1, VTC 5 (BBC HD)
+http://tivi12h.com/tivi12h/xem.php?hd=vtc5.php
+
+
+#EXTINF:-1, VTC 6 (Saigon Channel)
+http://tivi12h.com/tivi12h/xem.php?hd=vtc6.php
+
+
+#EXTINF:-1, VTC 7 (Today)
+http://vp.xemtvhd.com/chn/tdayt/v.m3u8
+
+
+#EXTINF:-1, VTC 8 (View TV)
+http://avg.anluong.info/lives/origin01/vtc8sd.isml/vtc8sd.m3u8
+
+#EXTINF:-1, VTC 9
+http://tv.xemtvhd.com/lives/origin01/vtc9sd.isml/vtc9sd.m3u8
+
+#EXTINF:-1, VTC 10
+http://tv.xemtvhd.com/lives/origin01/vtc10sd.isml/vtc10sd.m3u8
+
+#EXTINF:-1, VTC 11
+http://tv.xemtvhd.com/lives/origin01/vtc11sd.isml/vtc11sd.m3u8
+
+#EXTINF:-1, VTC 12
+http://tv.xemtvhd.com/lives/origin01/vtc12sd.isml/vtc12sd.m3u8
+
+#EXTINF:-1, VTC 13
+http://tv.xemtvhd.com/lives/origin01/vtc13sd.isml/vtc13sd.m3u8
+
+#EXTINF:-1, VTC 14
+http://tivi12h.com/tivi12h/xem.php?hd=vtc14.php
+
+#EXTINF:-1, VTC 16 (3N TV)
+http://vp.xemtvhd.com/chn/3ntv/v.m3u8
+
+#EXTINF:-1, ANTV
+http://vp.xemtvhd.com/chn/antv/v.m3u8
+
+#EXTINF:-1, VTVCab 16 (Da Bong)
+http://vp.xemtvhd.com/chn/bdtv/v.m3u8
+
+#EXTINF:-1, VTVCab 8 (BiBi)
+http://vp.xemtvhd.com/chn/bibi/v.m3u8
+
+#EXTINF:-1, BT Sport Extra
+http://vp.xemtvhd.com/chn/btse/v.m3u8
+
+#EXTINF:-1, BT Sport 1
+http://vp.xemtvhd.com/chn/btsu1/v.m3u8
+
+#EXTINF:-1, BT Sport 2
+http://vp.xemtvhd.com/chn/btsu2/v.m3u8
+
+#EXTINF:-1, Canal+HD (Bong Da)
+http://vp.xemtvhd.com/chn/canallhd/v.m3u8
+
+#EXTINF:-1, VTVCab 7 Dramas
+http://vp.xemtvhd.com/chn/ddra/v.m3u8
+
+#EXTINF:-1, DRT1
+http://vp.xemtvhd.com/chn/drt1/v.m3u8
+
+#EXTINF:-1, Euro News 
+http://vp.xemtvhd.com/chn/eunew/v.m3u8
+
+#EXTINF:-1, Euro Sports
+http://vp.xemtvhd.com/chn/eusp1fr/v.m3u8
+
+#EXTINF:-1, Hanoi 2 
+http://vp.xemtvhd.com/chn/hn2/v.m3u8
+
+#EXTINF:-1, HTV 7
+http://vp.xemtvhd.com/chn/htv7/v.m3u8
+
+#EXTINF:-1, VTC 11 Kids & Family
+http://vp.xemtvhd.com/chn/kids/v.m3u8
+
+#EXTINF:-1, MUTV Tour 2015 (Bong Da)
+http://vp.xemtvhd.com/chn/mutvl2/v.m3u8
+
+#EXTINF:-1, VTVCab 10 O2 TV
+http://vp.xemtvhd.com/chn/o2tv/v.m3u8
+
+#EXTINF:-1, VTVCab 2 Phim Viet TV
+http://vp.xemtvhd.com/chn/phimv/v.m3u8
+
+#EXTINF:-1, Radar TV QVPN
+http://vp.xemtvhd.com/chn/qpvn/v.m3u8
+
+#EXTINF:-1, Canals Deportes
+http://vp.xemtvhd.com/chn/scanald/v.m3u8
+
+#EXTINF:-1, VTC 6
+http://vp.xemtvhd.com/chn/sgc6/v.m3u8
+
+#EXTINF:-1, Sky Sports 5 HD
+http://vp.xemtvhd.com/chn/sks5/v.m3u8
+
+#EXTINF:-1, VTV 7 Today
+http://vp.xemtvhd.com/chn/tdayt/v.m3u8
+
+#EXTINF:-1, VTVCab 3 Thể Thao TV (VN)
+http://vp.xemtvhd.com/chn/tttv/v.m3u8
+
+#EXTINF:-1, TTX VN
+http://vp.xemtvhd.com/chn/ttxvn/v.m3u8
+
+#EXTINF:-1, UK SKS F1
+http://vp.xemtvhd.com/chn/uksksf1/v.m3u8
+
+#EXTINF:-1, Sky Sports News HQ
+http://vp.xemtvhd.com/chn/uksksn/v.m3u8
+
+#EXTINF:-1, THVL 1
+http://vp.xemtvhd.com/chn/vl1/v.m3u8
+
+#EXTINF:-1, THVL 2
+http://vp.xemtvhd.com/chn/vl2/v.m3u8
+
+#EXTINF:-1, VOV TV
+http://vp.xemtvhd.com/chn/vovtv/v.m3u8
+
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
+http://pvr.tvip.ga/0409.m3u8|X-Forwarded-For=81.17.18.52
+
+#EXTINF:-1, IBC
+http://206.190.136.254/liveStream/ibctv_1/playlist.m3u8
+
+#EXTINF:-1, IBC TV
+http://50.7.30.60/liveStream/ibctv_1/playlist.m3u8
+
+#EXTINF:-1, Little Saigon
+http://206.190.136.254/liveStream/lstv_1/playlist.m3u8
+
+#EXTINF:-1, VietFace
+http://206.190.136.254/liveStream/vface_1/playlist.m3u8
+
+#EXTINF:-1, VNBC
+http://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
+
+#EXTINF:-1, VNA TV
+http://206.190.136.254/liveStream/vnatv_1/playlist.m3u8
+
+#EXTINF:-1, Vpop Bolsa
+http://206.190.136.254/liveStream/vpoptv_1/playlist.m3u8
+
+#EXTINF:-1, Phat Tu Bi
+http://206.190.136.254/liveStream/ptb_1/playlist.m3u8
+
+#EXTINF:-1, VietSun
+http://206.190.136.254/liveStream/vietsuntv_1/playlist.m3u8
+
+#EXTINF:-1, Du Lich (KVLA TV)
+http://50.7.30.60/liveStream/kvla_1/playlist.m3u8
+
+#EXTINF:-1, VanTV
+http://50.7.30.60/liveStream/vantv_1/playlist.m3u8
+
+#EXTINF:-1, VBS
+http://50.7.30.60/liveStream/vbstv_1/playlist.m3u8
+
+#EXTINF:-1, SaigonTV
+http://50.7.30.60/liveStream/sgtv_1/playlist.m3u8
+
+#EXTINF:-1, Tuoi Than Tien
+http://206.190.136.254/liveStream/ttt_1/playlist.m3u8
+
+#EXTINF:-1, VNATV
+http://50.7.30.60/liveStream/vnatv_1/playlist.m3u8
+
+#EXTINF:-1, Little Saigon TV
+http://206.190.136.254/liveStream/lstv_1/playlist.m3u8
+
+#EXTINF:-1, Set 1
+http://50.7.30.60/liveStream/set_1/playlist.m3u8
+
+#EXTINF:-1, VMusic
+http://50.7.30.60/liveStream/mtv_1/playlist.m3u8
+
+#EXTINF:-1, Cai Luong (San Khan & Cuoc Doi)
+http://50.7.30.60/liveStream/cailuong_1/playlist.m3u8
+
+#EXTINF:-1, VPop (Giai Tri Trong Tam Tay)
+http://50.7.30.60/liveStream/vpoptv_1/playlist.m3u8
+
+#EXTINF:-1, Y Khoa & Doi Song (Viet Face)
+http://206.190.136.254/liveStream/vface_1/playlist.m3u8
+
+#EXTINF:-1, Viet Nails TV (Viet Sun TV)
+http://206.190.136.254/liveStream/vietsuntv_1/playlist.m3u8
+
+#EXTINF:-1, Phat Tu Bi
+http://50.7.30.60/liveStream/ptb_1/playlist.m3u8
+
+#EXTINF:-1, Viet TV 1 (Ngoi Nha Mo Uoc)
+http://206.190.136.254/liveStream/vietvla_1/playlist.m3u8
+
+#EXTINF:-1, Viet TV 2 (Ngoi Nha Mo Uoc)
+http://50.7.30.60/liveStream/vietvla_1/playlist.m3u8
+
+#EXTINF:0,ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,BET (SD)***
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
+#EXTINF:0,Cartoon Network (SD)
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:0,CBS HD
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,CNN USA HD
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+#EXTINF:0,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:0,Disney Channel (SD)
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:0,ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,Food Network (SD)
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:0,Hallmark HD
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:0,HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:0,HGTV HD
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+#EXTINF:0,History Channel (USA) (SD)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:0,Investigation Discovery
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+#EXTINF:0,Lifetime HD
+http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,MSNBC SD
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:0,MTV SD
+http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:0,Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:0,Spike SD
+http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,tbs (SD)
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+#EXTINF:0,TLC (SD)
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,TruTV HD
+http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
+#EXTINF:0,USA Network HD
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+
+#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
+http://pvr.tvip.ga/0401.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0402" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
+http://pvr.tvip.ga/0402.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
+http://pvr.tvip.ga/0403.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0404" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
+http://pvr.tvip.ga/0404.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
+http://pvr.tvip.ga/0405.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0406" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
+http://pvr.tvip.ga/0406.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
+http://pvr.tvip.ga/0407.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0408" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
+http://pvr.tvip.ga/0408.m3u8|X-Forwarded-For=81.17.18.52
+
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
+http://pvr.tvip.ga/0409.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0410" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
+http://pvr.tvip.ga/0410.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
+http://pvr.tvip.ga/0411.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
+http://pvr.tvip.ga/0412.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
+http://pvr.tvip.ga/0413.m3u8|X-Forwarded-For=81.17.18.52
+
+#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
+http://pvr.tvip.ga/0414.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://pvr.tvip.ga/0415.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
+http://pvr.tvip.ga/0416.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]4More[/COLOR]
+http://pvr.tvip.ga/0417.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
+http://pvr.tvip.ga/0418.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
+http://pvr.tvip.ga/0419.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
+http://pvr.tvip.ga/0420.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0421" group-title="English" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
+http://pvr.tvip.ga/0421.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0422" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
+http://pvr.tvip.ga/0422.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0423" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
+http://pvr.tvip.ga/0423.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0424" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
+http://pvr.tvip.ga/0424.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0425" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://pvr.tvip.ga/0425.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0426" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
+http://pvr.tvip.ga/0426.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0427" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
+http://pvr.tvip.ga/0427.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
+http://pvr.tvip.ga/0428.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0429.png",[COLOR orange]Russia Today[/COLOR]
+http://pvr.tvip.ga/0429.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0431" group-title="English" tvg-logo="0431.png",[COLOR orange]Russia Today HD[/COLOR]
+http://pvr.tvip.ga/0431.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
+http://pvr.tvip.ga/0430.m3u8|X-Forwarded-For=81.17.18.52
+
+
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="9001.png",[COLOR gold]VEVO US/CA 1[/COLOR]
+http://pvr.tvip.ga/9001.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="9002" group-title="Music" tvg-logo="9002.png",[COLOR orangered]VEVO US/CA 1 HD[/COLOR]
+http://pvr.tvip.ga/9002.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="9003" group-title="Music" tvg-logo="9003.png",[COLOR gold]VEVO US/CA 2[/COLOR]
+http://pvr.tvip.ga/9003.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="9004" group-title="Music" tvg-logo="9004.png",[COLOR orangered]VEVO US/CA 2 HD[/COLOR]
+http://pvr.tvip.ga/9004.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="9005" group-title="Music" tvg-logo="9005.png",[COLOR gold]VEVO US/CA 3[/COLOR]
+http://pvr.tvip.ga/9005.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="9006" group-title="Music" tvg-logo="9006.png",[COLOR orangered]VEVO US/CA 3 HD[/COLOR]
+http://pvr.tvip.ga/9006.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="9007" group-title="Music" tvg-logo="9007.png",[COLOR gold]VEVO DE[/COLOR]
+http://pvr.tvip.ga/9007.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="9008" group-title="Music" tvg-logo="9008.png",[COLOR orangered]VEVO DE HD[/COLOR]
+http://pvr.tvip.ga/9008.m3u8|X-Forwarded-For=78.43.32.8
+
