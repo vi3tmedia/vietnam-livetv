@@ -1,440 +1,1449 @@
-<name>VIETNAM: Kien Giang 1</name>
+
+<item>
+<title>VIETNAM: Kien Giang *</title>
+<link>http://113.160.49.34/lives/origin02/kg1mb.isml/kg1mb-364k.m3u8?bitrate=150</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Cà Mau TV *</title>
+<link>rtmp://113.161.220.254/livepkgr/ playpath=livestream1?adbe-live-event=liveevent swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://ctvcamau.vn/jwplayer/?l=rtmp&i=http://118.69.199.136/wp-content/uploads/2014/01/TVonline_Ctvcamau.jpg&w=400&h=300&a=0</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/ca_mau_tv.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: BRT *</title>
+<link>rtmp://113.163.216.24/live playpath=livestream swfUrl=http://www.brt.vn/player.swf live=1 pageUrl=http://www.brt.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/brt_vn.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Binh Phuoc TV 1 *</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp1.tv swfUrl=http://www.bptv.com.vn/vplayer.swf live=1 pageUrl=http://www.bptv.com.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Binh Phuoc TV 2*</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp2.tv swfUrl=http://www.bptv.com.vn/vplayer.swf live=1 pageUrl=http://www.bptv.com.vn/#</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: An Giang TV 2*</title>
+<link>rtmp://113.161.212.25/live2 playpath=atv2 swfUrl=http://www.atv.org.vn/player/player.swf live=1 pageUrl=http://www.atv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: An Giang TV 1*</title>
+<link>rtmp://113.161.212.25/live playpath=atv1 swfUrl=http://www.atv.org.vn/player/player.swf live=1 pageUrl=http://www.atv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Viet MTV*</title>
+<link>http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Vietface TV *</title>
+<link>http://206.190.136.254/liveStream/vface_1/chunklist_w1409056805.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV Phú Yên *</title>
+<link>rtmp://113.161.4.102/live//vtvphuyen.tv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTC14 *</title>
+<link>rtmp://117.103.224.31/live//livestream?token=nothing&amp;time=null</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VMusic *</title>
+<link>http://83.170.111.147:1935/liveStream/mtv_1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VBS*</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp2.tv swfUrl=http://www.bptv.com.vn/vplayer.swf live=1 pageUrl=http://www.bptv.com.vn/#</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>CALI: VNBC*</title>
+<link>http://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/chunklist_w1301626483_b1228800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>CALI: VAN TV*</title>
+<link>http://206.190.140.142/liveStream/vantv_1/chunklist_w1098657778.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Viet Sun</title>
+<link>http://206.190.140.142/liveStream/vietsuntv_1/chunklist_w126533516.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Tuoi Than Tien</title>
+<link>http://206.190.140.142/liveStream/ttt_1/chunklist_w1485510142.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VPop</title>
+<link>http://206.190.140.142/liveStream/vpoptv_1/chunklist_w2139601650.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Dong Giao</title>
+<link>http://206.190.140.142/liveStream/dgtv_1/chunklist_w1704233637.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Hai 24/7</title>
+<link>http://206.190.140.142/liveStream/hai_1/chunklist_w1288080472.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Viet MTV</title>
+<link>http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VMusic</title>
+<link>http://83.170.111.147:1935/liveStream/mtv_1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTC14</title>
+<link>rtmp://117.103.224.31/live//livestream?token=nothing&amp;time=null</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV Cần Thơ 1</title>
+<link>rtmp://113.161.204.167/livepkgr/livestream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>VIETNAM: ai</title>
+<link>http://206.190.150.132:1935/liveStream/hai_1/hasbahca.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Am Thuc</title>
+<link>http://206.190.150.132:1935/liveStream/vnatv_1/hasbahca.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: AnGiangTV</title>
+<link>rtmp://113.161.212.25/live//atv1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: BinhPhuocTV 2</title>
+<link>rtmp://113.161.180.136/live//thbp2.tv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: BinhThuanTV</title>
+<link>mms://123.30.108.114/BTVTruyenhinh</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: DamTV</title>
+<link>http://83.170.111.147:1935/liveStream/DAMTV_1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Hài 247</title>
+<link>http://83.170.111.147:1935/liveStream/hai_1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HaiPhongTV</title>
+<link>rtmp://203.162.238.46/live//livestream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HaTinhTV</title>
+<link>http://hatinhtv.vn/liveevent.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HauGiangTV</title>
+<link>rtmp://115.78.160.29/live//thhg</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Am Thuc</title>
+<link>http://206.190.140.142/liveStream/vnatv_1/chunklist_w1759501148.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: BongdaTV</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Dong Giao</title>
+<link>http://206.190.140.142/liveStream/dgtv_1/chunklist_w1704233637.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Hai 24/7</title>
+<link>http://206.190.140.142/liveStream/hai_1/chunklist_w1288080472.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HTV9</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HTVC Phunu</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Luat & Gia Dinh</title>
+<link>http://206.190.136.254/liveStream/lstv_1/chunklist_w1790316960.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: SCTV Hai HD</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VBS</title>
+<link>http://206.190.140.142/liveStream/vbstv_1/chunklist_w807881578.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Viet Sun</title>
+<link>http://206.190.140.142/liveStream/vietsuntv_1/chunklist_w126533516.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VietFace</title>
+<link>http://206.190.136.254/liveStream/vface_1/chunklist_w1409056805.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VietV</title>
+<link>http://206.190.140.142/liveStream/vietvla_1/chunklist_w238108393.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VNA TV
+http://206.190.136.254/liveStream/vnatv_1/chunklist_w1004666514.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VNBC</title>
+<link>http://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/chunklist_w1301626483_b1228800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VOV TV</title>
+<link>rtmp://210.245.60.242/vovtv/vovtv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VPop</title>
+<link>http://206.190.140.142/liveStream/vpoptv_1/chunklist_w2139601650.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV1</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV3</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3sd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV6</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6sd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab10</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab12</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab15</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab17</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab2</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab4</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab6</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:haytv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab7</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab8</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab9</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV3</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3sd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV1</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Arirang</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HTV9</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: BongdaTV</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: ThethaoTV</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab1</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab2</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab6</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:haytv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab7</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: KBS World</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab8</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab10</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab12</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab17</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab4</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab5</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:echanel_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTV6</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6sd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HTVC Phunu</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab9</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: VTVcab15</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: SCTV Hai HD *</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Bloomberg</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bloomberg/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Bloomberg</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Cartoon Network</title>
+<link>http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: CNBC</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: CNN</title>
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Inside Science TV</title>
+<link>mms://media.mesa.gmu.edu/capconwhite1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: News 12 New Jersey</title>
+<link>rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: News New Jersey(Weather)</title>
+<link>rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>BBC News UK</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>BBC WORLD NEWS</title>
+<link>http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>I24 News English</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Amazing</title>
+<link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Capital TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Deluxe LOVE LOUNGE</title>
+<link>rtmp://flash1.ipercast.net/deluxemusic.tv/mp4:staging/120131-love-lounge-catchup.mp4.mp4</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>DANCE: DJING Dance Floor HD 720</title>
+<link>http://www.djing.com/tv/dancefloor.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>DANCE: DJING Hot Hot Hot HD 720</title>
+<link>http://www.djing.com/tv/hothothot.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>DANCE: DJING Ibiza HD 720</title>
+<link>http://www.djing.com/tv/ibiza.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>DANCE: DJing TV</title>
+<link>http://cdn.djing.com/tv/d-05.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>DANCE: Film ON TV Clubbing</title>
+<link>http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Heart TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>DANCE: MCM Top</title>
+<link>http://hlsstr03.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>DANCE: ESKA Party 720p</title>
+<link>rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Melody Channel</title>
+<link>rtmp://186.155.200.118:1935/live/MelodyChannel</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Mezzo (Classical)</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: MONTECARLO MUSIC</title>
+<link>rtmp://fms.105.net/live/rmc1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: One Classic HD 720</title>
+<link>rtmp://91.201.78.3:1935/live/classicshd</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: One Dance HD ULTRA 720</title>
+<link>rtmp://91.201.78.3:1935/live/dancehd</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: One Jazz HD 720</title>
+<link>rtmp://91.201.78.3:1935/live/jazzhd</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Pop Music TV</title>
+<link>mmsh://194.88.200.11:80/pop?MSWMExt=.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Rock One</title>
+<link>mmsh://mediatv2.topix.it/24RockOne66</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: Quiero Musica</title>
+<link>mms://streamqm.uigc.net/qmusica</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: Radio 105 TV</title>
+<link>rtmp://fms.105.net:1935/live/105Test1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: Si TV</title>
+<link>http://hd.worldkast.com:1935/8436/8436/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<title>SPAINISH: Spain Kiss tv (Musica)</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: Spain:First Music HD 1080p</title>
+<link>rtmp://109.239.142.62/live/livestream3</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: TeleM3</title>
+<link>http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: Telemusica</title>
+<link>rtmp://186.155.200.118:1935/live/telemusica</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>THAI: Thai:Malimar Thai Music (Thai)</title>
+<link>http://dalorigin00.malimarcdn.com:1935/ftaorigin/_definst_/MalimarMHD.sdp/HasBahCa.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Vevo TV 1 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Vevo TV 2 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Vevo TV 3 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: VIETNAM VMusic</title>
+<link>http://83.170.111.147:1935/liveStream/mtv_1/HasBahCa.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Virgin TV</title>
+<link>rtmp://fms.105.net:1935/live/virgin2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: FOX Sports</title>
+<link>rtmp://kv2.ts33.net/sat/us011</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>USA: EURO Sports</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>AUSTRALIA: Motorsport 7 Channel </title>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>USA: SN360</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: Sport Time TV 1 (MUSIC)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: Sport Time TV 2</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: Sport Time TV 3</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: Sport Time TV 4</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Sport Time TV 5</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Sport Time TV 6</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: ESPN Sports Center</title>
+<link>rtmp://kv2.ts33.net/sat/us021</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: HBO Plus</title>
+<link>rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: XTREME IMPACTS</title>
+<link>http://46.249.213.93/iPhone/HLS_TS/broadcast/xtreme_impacts-tablet.3gp/xtreme_impacts-tablet.3gp-mr647k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: UFC</title>
+<link>rtmp://rtmpvid.ufc.tv/cfx/st/ playpath=mp4:2015/01/05/mcgregor-UI-Texted-01h01m04s-CLID114260VT520.dsk.mp4 swfUrl=http://media.ufc.tv/ufc_system_assets/ufc_201501051434/js/jwplayer6/jwplayer.flash.swf pageUrl=http://uk.ufc.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: WWE Network</title>
+<link>rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+-----
+
+
+<item>
+<title>USA: BBC World News</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+ 
+<item>
+<title>USA: BLOOMBERG (USA)</title>
+<link>http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+<item>
+<title>USA: i24 News</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Discovery Channel HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: HBO HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: TLC</title>
+<link>http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: USA Network</title>
+<link>http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: TNT HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Nat GEO HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: NBC HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: FOX News HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: CNBC</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+ 
+<item>
+<title>USA: NBC GOLF 720p</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: NBC Sports Network 1080P</title>
+<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: USA Live TV Big Ten Network</title>
+<link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: USA:Kiss Tv Music</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: CNBC</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+ 
+<item>
+<title>USA: VH1 CLASSIC</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: 1HD</title>
+<link>http://109.239.142.62:1935/live/livestream3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Discovery World</title>
+<link>http://ift.tt/1CiXw6s</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Discovery Science</title>
+<link>http://ift.tt/1S09gMS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: AMC</title>
+<link>http://ift.tt/1S09fsg</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: CBS Reality</title>
+<link>http://ift.tt/1CiXw6u</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Extreme Sports</title>
+<link>http://ift.tt/1S09fsi</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Jim Jam</title>
+<link>http://ift.tt/1CiXvj1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Discovery Channel</title>
+<link>http://ift.tt/1S09h36</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Nick Jr.</title>
+<link>http://ift.tt/1CiXyer</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Animal Planet</title>
+<link>http://ift.tt/1S09h38</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: National Geographic Wild</title>
+<link>http://ift.tt/1CiXyet</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: NGC</title>
+<link>http://ift.tt/1S09fIy</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Fox</title>
+<link>http://ift.tt/1S09fIA</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Sky News</title>
+<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Baby TV</title>
+<link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: Cartoon Network</title>
+<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: MTV Dance</title>
+<link>http://46.61.226.18/hls/CH_MTVDANCE/bw1500000/variant.m3u8?version=2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Cartoon Network</title>
+<link>http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>USA: Kien Giang</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=kg1.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA: HBO SD</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=hbo.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>KÊNH ĐẶC SẮC: Discovery Channel</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=discovery.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH ĐẶC SẮC: Discovery Channel HD</title>
+<link>http://tv.xemtvhd.com/lives/origin03/discoveryhd.isml/discoveryhd-2096k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH ĐẶC SẮC: AXN</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=axn.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH ĐẶC SẮC: AXN HD</title>
+<link>http://113.160.49.34/lives/origin03/axnhdmb.isml/axnhdmb.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>KÊNH ĐẶC SẮC: Cinemax</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=cinemax.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH ĐẶC SẮC: Star Movies</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=starmovies.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>KÊNH ĐẶC SẮC: Star Movies HD</title>
+<link>http://tv.xemtvhd.com/lives/origin03/moviehd.isml/moviehd-2096k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH ĐẶC SẮC: VTC7 Today</title>
+<link>http://vp.xemtvhd.com/chn/tdayt/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH ĐẶC SẮC: VTC9 Lets Viet</title>
+<link>http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/vtc9.360p.stream/chunklist_w1657413694.m3u8?t=7d39c2601aa45d139def6596592a0ef9&e=1437528371</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh Ca Nhạc: VTC13 ITV</title>
+<link>http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8?wowzasessionid=687405998</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+ 
+<item>
+<title>Kênh Ca Nhạc: VTC13 ITV HD</title>
+<link>http://tv.xemtvhd.com/lives/origin03/itvhd.isml/itvhd-2096k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh MTV Việt</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=mtv.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh Cartoon Network</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=cartoon.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh Disney Network</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=disney.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh Fashion TV</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=fashion.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH THỂ THAO VTV6</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=vtv6.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh HTV9</title>
+<link>http://sv.tvmienphi.biz/m7u88.php?id=htv9.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+http://sv.tvmienphi.biz/fpt.php?chn=yeah1tv.html
+<item>
+<title>KÊNH THỂ THAO Fox Sports</title>
+<link>http://vp.xemtvhd.com/chn/vtv2/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+http://cdn.tvmienphi.biz/fpt.php?chn=vtv5.html
+http://sv.tvmienphi.biz/fpt.php?chn=vtv3.html
+http://avg.tvmienphi.biz/lives/origin01/vtc5sd.isml/vtc5sd-1096k.m3u8
+http://cdn.tvmienphi.biz/fpt.php?chn=vtv6.html
+
+http://vtv.xemtvhd.com/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+http://vp.xemtvhd.com/chn/vtv2/v.m3u8
+http://vtv.xemtvhd.com/vtvlive/smil:vtv3sd_hls.smil/playlist.m3u8
+http://vtv.xemtvhd.com/vtvlive/smil:vtv6sd_hls.smil/playlist.m3u8
+http://tv.xemtvhd.com/lives/origin02/antvsd.isml/antvsd-1096k.m3u8
+
+
+<item>
+<title>VTV1</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/chunklist_b500000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV1</title>
+<link>http://vp.xemtvhd.com/chn/vtv1/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV2</title>
+<link>http://vp.xemtvhd.com/chn/vtv2/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV3</title>
+<link>http://vp.xemtvhd.com/chn/vtv3/v.m3u8</link>
+<link>http://vtv.xemtvhd.com/vtvlive/smil:vtv3sd_hls.smil/chunklist_b500000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV4</title>
+<link>http://vp.xemtvhd.com/chn/vtv4/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV5</title>
+<link>http://avg.tvmienphi.biz/lives/origin01/vtc5sd.isml/vtc5sd-1096k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV6</title>
+<link>http://vp.xemtvhd.com/chn/vtv6/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV7****</title>
+<link>http://vp.xemtvhd.com/chn/vtv7/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV8****</title>
+<link>http://vp.xemtvhd.com/chn/vtv8/v.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTV9***</title>
+<link>http://38.107.180.195:1935/live/vtc11_h/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>Yeahtv1***</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VTVCab7*</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/chunklist_b1200000.m3u8</link>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VTVCab7***</title>
+<link>http://premium.tutvgratis.tv:8000/live/youtvplayer/app/314.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>VIETNAM: VTV9/title>
+<link>http://sctv.live.cdn.anluong.info/live/C047_SD_3/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+
+<item>
+<title>VIETNAM: VTV9cab/title>
+<link>rtmp://123.29.69.69/live/VTVCab9_600k</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: MTV/title>
+<link>http://live.oneplay.tv/reproducir/441.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>SPANISH: Ecuvisa/title>
+<link>rtmp://173.193.197.46/flash</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Kien Giang 1</title>
 <link>http://113.160.49.34/lives/origin02/kg1mb.isml/kg1mb-364k.m3u8</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
-#EXTM3U
-#EXTINF:-1, unshort
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-#EXTINF:-1, VTV1
-http://vp.xemtvhd.com/chn/vtv1/v.m3u8
-#EXTINF:-1, VTV2
-http://vp.xemtvhd.com/chn/vtv2/v.m3u8
-
-#EXTINF:-1, VTV3
-http://vp.xemtvhd.com/chn/vtv3/v.m3u8
-
-#EXTINF:-1, VTV4
-http://vp.xemtvhd.com/chn/vtv4/v.m3u8
-
-#EXTINF:-1, VTV5
-http://vp.xemtvhd.com/chn/vtv5/v.m3u8
-
-#EXTINF:-1, VTV6
-http://vp.xemtvhd.com/chn/vtv6/v.m3u8
-
-#EXTINF:-1, VOV TV
-http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8?wowzasessionid=20909133
-
-#EXTINF:-1, QPVN
-http://113.160.49.34/lives/origin02/qptvsd.isml/qptvsd.m3u8
-http://113.160.49.34/lives/origin02/qptvsd.isml/qptvsd-1096k.m3u8
-
-
-#EXTINF:-1, AXN (VN)
-http://stream.anluong.info/sctv2/axn.m3u8
-
-#EXTINF:-1, AXN HD (VN)
-http://113.160.49.34/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
-http://113.160.49.34/lives/origin03/axnhdmb.isml/axnhdmb-364k.m3u8
-
-#EXTINF:-1, Cinemax (VN)
-http://stream.anluong.info/sctv2/cinemax.m3u8
-
-#EXTINF:-1, Discovery (VN)
-http://stream.anluong.info/sctv2/discovery.m3u8
-
-#EXTINF:-1, HBO (VN)
-http://stream.anluong.info/sctv2/hbo.m3u8
-
-#EXTINF:-1, Star Movies HD(VN)
-http://tv.xemtvhd.com/lives/origin03/moviehd.isml/moviehd.m3u8
-
-#EXTINF:-1, Today VTC7xxxx
-http://tv.xemtvhd.com/lives/origin01/vtc7sd.isml/vtc7sd.m3u8
-
-#EXTINF:-1, Lets Viet VTC9
-http://14.161.5.88:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1, Cartoon Network (VN)
-http://stream.anluong.info/sctv2/cartoon.m3u8
-
-#EXTINF:-1, Disney Channel (VN)
-http://stream.anluong.info/sctv2/disney.m3u8
-
-#EXTINF:-1, Fashion TV (VN)
-http://stream.anluong.info/sctv2/fashion.m3u8
-
-#EXTINF:-1, Bóng Đá TV (VN) -- VTVCab 16
-http://vtv.xemtvhd.com/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8
-
-#EXTINF:-1, Thể Thao TV (VN) -- VTVCab 3
-http://vtv.xemtvhd.com/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
-
-#EXTINF:-1, VTC HD 3 Thể Thao (VN) -- VTC 3 HD
-http://tv.xemtvhd.com/lives/origin03/vtc3hd.isml/vtc3hd.m3u8
-
-
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]nhac[/COLOR]
-http://pvr.tvip.ga/0409.m3u8|X-Forwarded-For=81.17.18.52
-
-#EXTINF:-1, iTV SD (VN)
-http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
-
-
-
-#EXTINF:-1, VTC 1
-http://vp.xemtvhd.com/chn/vtc1/v.m3u8
-
-
-#EXTINF:-1, VTC 2
-http://vp.xemtvhd.com/chn/vtc2/v.m3u8
-
-
-#EXTINF:-1, VTC 3
-http://vp.xemtvhd.com/chn/vtc3/v.m3u8
-
-
-#EXTINF:-1, VTC 4 xxxxx
-http://tv.xemtvhd.com/lives/origin01/vtc4sd.isml/vtc4sd.m3u8
-
-
-#EXTINF:-1, VTC 5 (BBC HD)
-http://tivi12h.com/tivi12h/xem.php?hd=vtc5.php
-
-
-#EXTINF:-1, VTC 6 (Saigon Channel)
-http://tivi12h.com/tivi12h/xem.php?hd=vtc6.php
-
-
-#EXTINF:-1, VTC 7 (Today)
-http://vp.xemtvhd.com/chn/tdayt/v.m3u8
-
-
-#EXTINF:-1, VTC 8 (View TV)
-http://avg.anluong.info/lives/origin01/vtc8sd.isml/vtc8sd.m3u8
-
-#EXTINF:-1, VTC 9
-http://tv.xemtvhd.com/lives/origin01/vtc9sd.isml/vtc9sd.m3u8
-
-#EXTINF:-1, VTC 10
-http://tv.xemtvhd.com/lives/origin01/vtc10sd.isml/vtc10sd.m3u8
-
-#EXTINF:-1, VTC 11
-http://tv.xemtvhd.com/lives/origin01/vtc11sd.isml/vtc11sd.m3u8
-
-#EXTINF:-1, VTC 12
-http://tv.xemtvhd.com/lives/origin01/vtc12sd.isml/vtc12sd.m3u8
-
-#EXTINF:-1, VTC 13
-http://tv.xemtvhd.com/lives/origin01/vtc13sd.isml/vtc13sd.m3u8
-
-#EXTINF:-1, VTC 14
-http://tivi12h.com/tivi12h/xem.php?hd=vtc14.php
-
-#EXTINF:-1, VTC 16 (3N TV)
-http://vp.xemtvhd.com/chn/3ntv/v.m3u8
-
-#EXTINF:-1, ANTV
-http://vp.xemtvhd.com/chn/antv/v.m3u8
-
-#EXTINF:-1, VTVCab 16 (Da Bong)
-http://vp.xemtvhd.com/chn/bdtv/v.m3u8
-
-#EXTINF:-1, VTVCab 8 (BiBi)
-http://vp.xemtvhd.com/chn/bibi/v.m3u8
-
-#EXTINF:-1, BT Sport Extra
-http://vp.xemtvhd.com/chn/btse/v.m3u8
-
-#EXTINF:-1, BT Sport 1
-http://vp.xemtvhd.com/chn/btsu1/v.m3u8
-
-#EXTINF:-1, BT Sport 2
-http://vp.xemtvhd.com/chn/btsu2/v.m3u8
-
-#EXTINF:-1, Canal+HD (Bong Da)
-http://vp.xemtvhd.com/chn/canallhd/v.m3u8
-
-#EXTINF:-1, VTVCab 7 Dramas
-http://vp.xemtvhd.com/chn/ddra/v.m3u8
-
-#EXTINF:-1, DRT1
-http://vp.xemtvhd.com/chn/drt1/v.m3u8
-
-#EXTINF:-1, Euro News 
-http://vp.xemtvhd.com/chn/eunew/v.m3u8
-
-#EXTINF:-1, Euro Sports
-http://vp.xemtvhd.com/chn/eusp1fr/v.m3u8
-
-#EXTINF:-1, Hanoi 2 
-http://vp.xemtvhd.com/chn/hn2/v.m3u8
-
-#EXTINF:-1, HTV 7
-http://vp.xemtvhd.com/chn/htv7/v.m3u8
-
-#EXTINF:-1, VTC 11 Kids & Family
-http://vp.xemtvhd.com/chn/kids/v.m3u8
-
-#EXTINF:-1, MUTV Tour 2015 (Bong Da)
-http://vp.xemtvhd.com/chn/mutvl2/v.m3u8
-
-#EXTINF:-1, VTVCab 10 O2 TV
-http://vp.xemtvhd.com/chn/o2tv/v.m3u8
-
-#EXTINF:-1, VTVCab 2 Phim Viet TV
-http://vp.xemtvhd.com/chn/phimv/v.m3u8
-
-#EXTINF:-1, Radar TV QVPN
-http://vp.xemtvhd.com/chn/qpvn/v.m3u8
-
-#EXTINF:-1, Canals Deportes
-http://vp.xemtvhd.com/chn/scanald/v.m3u8
-
-#EXTINF:-1, VTC 6
-http://vp.xemtvhd.com/chn/sgc6/v.m3u8
-
-#EXTINF:-1, Sky Sports 5 HD
-http://vp.xemtvhd.com/chn/sks5/v.m3u8
-
-#EXTINF:-1, VTV 7 Today
-http://vp.xemtvhd.com/chn/tdayt/v.m3u8
-
-#EXTINF:-1, VTVCab 3 Thể Thao TV (VN)
-http://vp.xemtvhd.com/chn/tttv/v.m3u8
-
-#EXTINF:-1, TTX VN
-http://vp.xemtvhd.com/chn/ttxvn/v.m3u8
-
-#EXTINF:-1, UK SKS F1
-http://vp.xemtvhd.com/chn/uksksf1/v.m3u8
-
-#EXTINF:-1, Sky Sports News HQ
-http://vp.xemtvhd.com/chn/uksksn/v.m3u8
-
-#EXTINF:-1, THVL 1
-http://vp.xemtvhd.com/chn/vl1/v.m3u8
-
-#EXTINF:-1, THVL 2
-http://vp.xemtvhd.com/chn/vl2/v.m3u8
-
-#EXTINF:-1, VOV TV
-http://vp.xemtvhd.com/chn/vovtv/v.m3u8
-
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
-http://pvr.tvip.ga/0409.m3u8|X-Forwarded-For=81.17.18.52
-
-#EXTINF:-1, IBC
-http://206.190.136.254/liveStream/ibctv_1/playlist.m3u8
-
-#EXTINF:-1, IBC TV
-http://50.7.30.60/liveStream/ibctv_1/playlist.m3u8
-
-#EXTINF:-1, Little Saigon
-http://206.190.136.254/liveStream/lstv_1/playlist.m3u8
-
-#EXTINF:-1, VietFace
-http://206.190.136.254/liveStream/vface_1/playlist.m3u8
-
-#EXTINF:-1, VNBC
-http://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
-
-#EXTINF:-1, VNA TV
-http://206.190.136.254/liveStream/vnatv_1/playlist.m3u8
-
-#EXTINF:-1, Vpop Bolsa
-http://206.190.136.254/liveStream/vpoptv_1/playlist.m3u8
-
-#EXTINF:-1, Phat Tu Bi
-http://206.190.136.254/liveStream/ptb_1/playlist.m3u8
-
-#EXTINF:-1, VietSun
-http://206.190.136.254/liveStream/vietsuntv_1/playlist.m3u8
-
-#EXTINF:-1, Du Lich (KVLA TV)
-http://50.7.30.60/liveStream/kvla_1/playlist.m3u8
-
-#EXTINF:-1, VanTV
-http://50.7.30.60/liveStream/vantv_1/playlist.m3u8
-
-#EXTINF:-1, VBS
-http://50.7.30.60/liveStream/vbstv_1/playlist.m3u8
-
-#EXTINF:-1, SaigonTV
-http://50.7.30.60/liveStream/sgtv_1/playlist.m3u8
-
-#EXTINF:-1, Tuoi Than Tien
-http://206.190.136.254/liveStream/ttt_1/playlist.m3u8
-
-#EXTINF:-1, VNATV
-http://50.7.30.60/liveStream/vnatv_1/playlist.m3u8
-
-#EXTINF:-1, Little Saigon TV
-http://206.190.136.254/liveStream/lstv_1/playlist.m3u8
-
-#EXTINF:-1, Set 1
-http://50.7.30.60/liveStream/set_1/playlist.m3u8
-
-#EXTINF:-1, VMusic
-http://50.7.30.60/liveStream/mtv_1/playlist.m3u8
-
-#EXTINF:-1, Cai Luong (San Khan & Cuoc Doi)
-http://50.7.30.60/liveStream/cailuong_1/playlist.m3u8
-
-#EXTINF:-1, VPop (Giai Tri Trong Tam Tay)
-http://50.7.30.60/liveStream/vpoptv_1/playlist.m3u8
-
-#EXTINF:-1, Y Khoa & Doi Song (Viet Face)
-http://206.190.136.254/liveStream/vface_1/playlist.m3u8
-
-#EXTINF:-1, Viet Nails TV (Viet Sun TV)
-http://206.190.136.254/liveStream/vietsuntv_1/playlist.m3u8
-
-#EXTINF:-1, Phat Tu Bi
-http://50.7.30.60/liveStream/ptb_1/playlist.m3u8
-
-#EXTINF:-1, Viet TV 1 (Ngoi Nha Mo Uoc)
-http://206.190.136.254/liveStream/vietvla_1/playlist.m3u8
-
-#EXTINF:-1, Viet TV 2 (Ngoi Nha Mo Uoc)
-http://50.7.30.60/liveStream/vietvla_1/playlist.m3u8
-
-#EXTINF:0,ABC 22 HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,AMC
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,BET (SD)***
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:0,Cartoon Network (SD)
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:0,CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,CNN USA HD
-http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
-#EXTINF:0,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-#EXTINF:0,Disney Channel (SD)
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,Food Network (SD)
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-#EXTINF:0,Hallmark HD
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:0,HGTV HD
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-#EXTINF:0,History Channel (USA) (SD)
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:0,Investigation Discovery
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:0,Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,MSNBC SD
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
-#EXTINF:0,MTV SD
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:0,Spike SD
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,tbs (SD)
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
-#EXTINF:0,TLC (SD)
-http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,TruTV HD
-http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
-#EXTINF:0,USA Network HD
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
-http://pvr.tvip.ga/0401.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0402" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
-http://pvr.tvip.ga/0402.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
-http://pvr.tvip.ga/0403.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0404" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
-http://pvr.tvip.ga/0404.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
-http://pvr.tvip.ga/0405.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0406" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
-http://pvr.tvip.ga/0406.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
-http://pvr.tvip.ga/0407.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0408" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
-http://pvr.tvip.ga/0408.m3u8|X-Forwarded-For=81.17.18.52
-
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
-http://pvr.tvip.ga/0409.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0410" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
-http://pvr.tvip.ga/0410.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
-http://pvr.tvip.ga/0411.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
-http://pvr.tvip.ga/0412.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
-http://pvr.tvip.ga/0413.m3u8|X-Forwarded-For=81.17.18.52
-
-#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
-http://pvr.tvip.ga/0414.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
-http://pvr.tvip.ga/0415.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
-http://pvr.tvip.ga/0416.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]4More[/COLOR]
-http://pvr.tvip.ga/0417.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
-http://pvr.tvip.ga/0418.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
-http://pvr.tvip.ga/0419.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
-http://pvr.tvip.ga/0420.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0421" group-title="English" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
-http://pvr.tvip.ga/0421.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0422" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
-http://pvr.tvip.ga/0422.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0423" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
-http://pvr.tvip.ga/0423.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0424" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
-http://pvr.tvip.ga/0424.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0425" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
-http://pvr.tvip.ga/0425.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0426" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
-http://pvr.tvip.ga/0426.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0427" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
-http://pvr.tvip.ga/0427.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
-http://pvr.tvip.ga/0428.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0429.png",[COLOR orange]Russia Today[/COLOR]
-http://pvr.tvip.ga/0429.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0431" group-title="English" tvg-logo="0431.png",[COLOR orange]Russia Today HD[/COLOR]
-http://pvr.tvip.ga/0431.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
-http://pvr.tvip.ga/0430.m3u8|X-Forwarded-For=81.17.18.52
-
-
-#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="9001.png",[COLOR gold]VEVO US/CA 1[/COLOR]
-http://pvr.tvip.ga/9001.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9002" group-title="Music" tvg-logo="9002.png",[COLOR orangered]VEVO US/CA 1 HD[/COLOR]
-http://pvr.tvip.ga/9002.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9003" group-title="Music" tvg-logo="9003.png",[COLOR gold]VEVO US/CA 2[/COLOR]
-http://pvr.tvip.ga/9003.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9004" group-title="Music" tvg-logo="9004.png",[COLOR orangered]VEVO US/CA 2 HD[/COLOR]
-http://pvr.tvip.ga/9004.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9005" group-title="Music" tvg-logo="9005.png",[COLOR gold]VEVO US/CA 3[/COLOR]
-http://pvr.tvip.ga/9005.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9006" group-title="Music" tvg-logo="9006.png",[COLOR orangered]VEVO US/CA 3 HD[/COLOR]
-http://pvr.tvip.ga/9006.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9007" group-title="Music" tvg-logo="9007.png",[COLOR gold]VEVO DE[/COLOR]
-http://pvr.tvip.ga/9007.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9008" group-title="Music" tvg-logo="9008.png",[COLOR orangered]VEVO DE HD[/COLOR]
-http://pvr.tvip.ga/9008.m3u8|X-Forwarded-For=78.43.32.8
-
+</item>
+
+<item>
+<title>VIETNAM: Kien Giang 2</title>
+<link>http://113.160.49.34/lives/origin02/kg1mb.isml/kg1mb-364k.m3u8?bitrate=100</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Kien Giang 3</title>
+<link>http://113.160.49.34/lives/origin02/kg1mb.isml/kg1mb-364k.m3u8?bitrate=900</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Kien Giang PTTH</title>
+<link>rtmp://123.29.69.69/live/KienGiang_250k</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: HBO</title>
+<link>http://113.160.49.34/lives/origin03/hbohd.isml/hbohd.m3u8&bitrate=400</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+
+<item>
+<title>VIETNAM: Saigon Entertainment TV</title>
+<link>http://206.190.130.141/liveStream/set_1/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Dong Nai TV 2</title>
+<link>rtmp://123.29.75.131:1935/thdn playpath=dn2.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf live=1 pageUrl=http://www.dnrtv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv2.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Dong Nai TV 1</title>
+<link>rtmp://123.29.75.131:1935/thdn playpath=dn1.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf live=1 pageUrl=http://www.dnrtv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>VIETNAM: Cà Mau TV</title>
+<link>rtmp://113.161.220.254/livepkgr/ playpath=livestream1?adbe-live-event=liveevent swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://ctvcamau.vn/jwplayer/?l=rtmp&i=http://118.69.199.136/wp-content/uploads/2014/01/TVonline_Ctvcamau.jpg&w=400&h=300&a=0</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/ca_mau_tv.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Can Tho TV</title>
+<link>rtmp://tv.canthotv.vn/livepkgr/ playpath=livestream3?adbe-live-event=liveevent swfUrl=http://canthotv.vn/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://canthotv.vn/jwplayer/?l=rtmp&w=390&h=300&a=0&i=http://canthotv.vn/wp-content/themes/comfy-plus/styles/default/img/hdsd.png</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/th_tp_ct.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: BRT</title>
+<link>rtmp://113.163.216.24/live playpath=livestream swfUrl=http://www.brt.vn/player.swf live=1 pageUrl=http://www.brt.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/brt_vn.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Binh Phuoc TV 2</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp2.tv swfUrl=http://www.bptv.com.vn/vplayer.swf live=1 pageUrl=http://www.bptv.com.vn/#</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: Binh Phuoc TV 1</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp1.tv swfUrl=http://www.bptv.com.vn/vplayer.swf live=1 pageUrl=http://www.bptv.com.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: An Giang TV 2</title>
+<link>rtmp://113.161.212.25/live2 playpath=atv2 swfUrl=http://www.atv.org.vn/player/player.swf live=1 pageUrl=http://www.atv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
+
+<item>
+<title>VIETNAM: An Giang TV 1</title>
+<link>rtmp://113.161.212.25/live playpath=atv1 swfUrl=http://www.atv.org.vn/player/player.swf live=1 pageUrl=http://www.atv.org.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/an_giang_tv1.png</thumbnail>
+</item>
