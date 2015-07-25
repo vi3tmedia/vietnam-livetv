@@ -1,11 +1,11 @@
+<name>VIETNAM: Kien Giang 1</name>
+<link>http://113.160.49.34/lives/origin02/kg1mb.isml/kg1mb-364k.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP8Yrl_a66-R5-y3CQwh-P5uIzI5k7FBW7q1Q_KQc3ktv0aU_7</thumbnail>
 #EXTM3U
-
 #EXTINF:-1, unshort
 http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-
 #EXTINF:-1, VTV1
 http://vp.xemtvhd.com/chn/vtv1/v.m3u8
-
 #EXTINF:-1, VTV2
 http://vp.xemtvhd.com/chn/vtv2/v.m3u8
 
